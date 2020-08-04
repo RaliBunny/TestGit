@@ -1,0 +1,4 @@
+bitlisin onunde baglar:wq
+:Wq
+:wq
+
